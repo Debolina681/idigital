@@ -1,0 +1,18 @@
+.addCategory { 
+    background: url('/src/components/Images/cart-Grocery.jpg') center center/cover no-repeat;
+    background-size: cover;
+    min-height: 1000px;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }
+  .category-dashboard { 
+    background: url('/src/components/Images/plain4.jpg') center center/cover no-repeat;
+    background-size: cover;
+    min-height: 1000px;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }

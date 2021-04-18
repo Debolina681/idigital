@@ -1,0 +1,8 @@
+export const GET_ERROR="GET_ERROR";
+export const GET_CATEGORIES="GET_CATEGORIES";
+export const GET_CATEGORY="GET_CATEGORY";
+export const DELETE_CATEGORY="DELETE_CATEGORY";
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_PRODUCTS = "GET_PRODUCTS";
+export const GET_PRODUCT = "GET_PRODUCT";
+export const DELETE_PRODUCT="DELETE_PRODUCT";

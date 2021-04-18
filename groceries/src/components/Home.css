@@ -1,0 +1,29 @@
+.image { 
+    background: url('/src/components/grocery1.jpg') center center/cover no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }
+  .image-list { 
+    background: url('/src/components/grocery3.jpg') center center/cover no-repeat;; 
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }
+  .image-one { 
+    background: url('/src/components/grocery2.jpg') center center/cover no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }

@@ -1,0 +1,31 @@
+.cart-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 40%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.555);
+    box-shadow: 0 0 8px 0 rgb(0 0 0 / 20%);
+    margin-bottom: 20px;
+
+}
+.box-shadow div{
+    margin:  20px 0px;
+}
+.box-shadow{
+    padding:  0 20px;
+}
+.card-span{
+    color: crimson;
+    padding: 0 20px;
+  }
+  .cart-image { 
+    background: url('/src/components/grocery2.jpg') center center/cover no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    width: 100%;
+    border-radius: 0 10px 10px 0;
+    padding: 0;
+    margin-top: 0.5%;
+    
+  }
